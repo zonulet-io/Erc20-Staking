@@ -1,2 +1,2 @@
-# Erc20-Staking
-Generic contracts suite to bootstrap staking campaigns
+# DexSwap ERC20-Staking-Rewards 
+### Powered by Zonulet | zonulet.io
